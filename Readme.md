@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarItemExtender.cs](./CS/CustomRibbonControl/BarItemExtender.cs) (VB: [BarItemExtender.vb](./VB/CustomRibbonControl/BarItemExtender.vb))
+* [Form1.cs](./CS/CustomRibbonControl/Form1.cs) (VB: [Form1.vb](./VB/CustomRibbonControl/Form1.vb))
+* [Program.cs](./CS/CustomRibbonControl/Program.cs) (VB: [Program.vb](./VB/CustomRibbonControl/Program.vb))
+* [RibbonControlDescendant.cs](./CS/CustomRibbonControl/RibbonControlDescendant.cs) (VB: [RibbonControlDescendant.vb](./VB/CustomRibbonControl/RibbonControlDescendant.vb))
+* [RibbonPageGroupComplexLayoutCalculatorDescendant.cs](./CS/CustomRibbonControl/RibbonPageGroupComplexLayoutCalculatorDescendant.cs) (VB: [RibbonPageGroupComplexLayoutCalculatorDescendant.vb](./VB/CustomRibbonControl/RibbonPageGroupComplexLayoutCalculatorDescendant.vb))
+* [RibbonViewInfoDescendant.cs](./CS/CustomRibbonControl/RibbonViewInfoDescendant.cs) (VB: [RibbonViewInfoDescendant.vb](./VB/CustomRibbonControl/RibbonViewInfoDescendant.vb))
+<!-- default file list end -->
 # How to change the location of bar items within a Ribbon page group
 
 
