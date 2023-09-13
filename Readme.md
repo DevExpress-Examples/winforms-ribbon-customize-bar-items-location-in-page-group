@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Ribbon - Change the location of bar items within a Ribbon page group
+# WinForms Ribbon - Display bar items in different locations within Ribbon page groups
 
 This example creates a custom Ribbon control.
 
